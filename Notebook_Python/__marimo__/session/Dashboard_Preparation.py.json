@@ -1,0 +1,1179 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.23.4",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "0a6f584d59a8e77571c004e76f748087",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_Hbol_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "03a79b5f81b15096bf4b0ebaf8554e5c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_MJUe_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "vblA",
+      "code_hash": "e4b5c01518020f65878fc84e82e8c727",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_vblA_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "989282f6d9be2f757bcf00855d88b4a5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "d291c2ae8305a74c1b8f199cdc044f33",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_lEQa_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "PKri",
+      "code_hash": "2ad0d9f88c02223a943623d196eb44c7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>user_id</th><th>age</th><th>gender</th><th>country</th><th>urban_rural</th><th>income_level</th><th>employment_status</th><th>education_level</th><th>relationship_status</th><th>has_children</th><th>...</th><th>log_attention_score</th><th>log_engagement_spend</th><th>log_risk_spend</th><th>log_triple_interaction</th><th>log_spend_per_purchase</th><th>log_spend_efficiency</th><th>log_revenue_per_click</th><th>log_high_value_score</th><th>log_safe_revenue</th><th>log_profit_proxy</th></tr></thead><tbody><tr><th>0</th><td>1</td><td>56</td><td>Female</td><td>Germany</td><td>Suburban</td><td>90860</td><td>Self-employed</td><td>Associate Degree</td><td>Single</td><td>0</td><td>...</td><td>8.243019</td><td>7.126397</td><td>6.455073</td><td>5.796828</td><td>6.400673</td><td>4.041827</td><td>7.785721</td><td>6.820160</td><td>7.479345</td><td>7.784473</td></tr><tr><th>1</th><td>2</td><td>69</td><td>Male</td><td>Japan</td><td>Suburban</td><td>35423</td><td>Unemployed</td><td>Bachelor</td><td>Single</td><td>1</td><td>...</td><td>6.278521</td><td>7.471438</td><td>7.218504</td><td>6.487406</td><td>5.641361</td><td>4.685665</td><td>7.510157</td><td>7.004259</td><td>7.735676</td><td>8.203030</td></tr><tr><th>2</th><td>3</td><td>46</td><td>Female</td><td>India</td><td>Urban</td><td>21467</td><td>Self-employed</td><td>Associate Degree</td><td>Married</td><td>1</td><td>...</td><td>7.748891</td><td>7.315253</td><td>6.762087</td><td>6.453940</td><td>5.325446</td><td>3.697019</td><td>6.238813</td><td>6.767173</td><td>7.075433</td><td>7.623642</td></tr><tr><th>3</th><td>4</td><td>32</td><td>Male</td><td>Canada</td><td>Urban</td><td>41770</td><td>Self-employed</td><td>Bachelor</td><td>Widowed</td><td>0</td><td>...</td><td>7.912423</td><td>6.760281</td><td>6.814582</td><td>6.190047</td><td>4.621904</td><td>3.446688</td><td>6.692704</td><td>5.929631</td><td>6.553882</td><td>7.383989</td></tr><tr><th>4</th><td>7</td><td>78</td><td>Female</td><td>Germany</td><td>Urban</td><td>62804</td><td>Student</td><td>Bachelor</td><td>Widowed</td><td>1</td><td>...</td><td>6.413459</td><td>7.315374</td><td>6.583693</td><td>5.858465</td><td>5.964543</td><td>4.365325</td><td>6.943766</td><td>7.051031</td><td>7.777288</td><td>8.041091</td></tr></tbody></table><p>5 rows \u00d7 166 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "ed0e6cb8c8b26b0166270e267caf40ef",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Dataset shape: (692978, 166)\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "db84a82d73396b633493222469253b3f",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_SFPL_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "c39879c959adb272b56ce69dc8b15921",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_BYtC_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "71373b5da2616132f2172a0ac2b66507",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "4ef3de2eacd042da253ecc4fe7ea9b7c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_Kclp_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "emfo",
+      "code_hash": "9ced26cda428a3c9296375952718a1f9",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_emfo_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "3eed1223790fe461654c1f170d167bba",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>user_id</th><th>monthly_spend</th><th>weekly_purchases</th><th>average_order_value</th><th>lifetime_value_proxy</th><th>risk_adjusted_value</th><th>spend_per_purchase</th><th>revenue_proxy</th><th>adjusted_revenue</th><th>revenue_efficiency</th><th>...</th><th>referral_count</th><th>brand_loyalty_score</th><th>age</th><th>gender</th><th>country</th><th>urban_rural</th><th>income_level</th><th>employment_status</th><th>education_level</th><th>household_size</th></tr></thead><tbody><tr><th>0</th><td>1</td><td>2405</td><td>4</td><td>445</td><td>45695</td><td>109744.960000</td><td>601.250000</td><td>149110</td><td>110360</td><td>1.351124</td><td>...</td><td>8</td><td>8</td><td>56</td><td>Female</td><td>Germany</td><td>Suburban</td><td>90860</td><td>Self-employed</td><td>Associate Degree</td><td>5</td></tr><tr><th>1</th><td>2</td><td>3651</td><td>13</td><td>179</td><td>29208</td><td>123527.934000</td><td>280.846154</td><td>197154</td><td>125658</td><td>1.568973</td><td>...</td><td>3</td><td>4</td><td>69</td><td>Male</td><td>Japan</td><td>Suburban</td><td>35423</td><td>Unemployed</td><td>Bachelor</td><td>2</td></tr><tr><th>2</th><td>3</td><td>2045</td><td>10</td><td>26</td><td>26585</td><td>38991.333333</td><td>204.500000</td><td>67485</td><td>8580</td><td>7.865385</td><td>...</td><td>10</td><td>2</td><td>46</td><td>Female</td><td>India</td><td>Urban</td><td>21467</td><td>Self-employed</td><td>Associate Degree</td><td>6</td></tr><tr><th>3</th><td>4</td><td>1611</td><td>16</td><td>403</td><td>14499</td><td>18225.064000</td><td>100.687500</td><td>41886</td><td>167648</td><td>0.249845</td><td>...</td><td>0</td><td>3</td><td>32</td><td>Male</td><td>Canada</td><td>Urban</td><td>41770</td><td>Self-employed</td><td>Bachelor</td><td>4</td></tr><tr><th>4</th><td>7</td><td>3107</td><td>8</td><td>83</td><td>27963</td><td>233709.920889</td><td>388.375000</td><td>304486</td><td>65072</td><td>4.679217</td><td>...</td><td>6</td><td>0</td><td>78</td><td>Female</td><td>Germany</td><td>Urban</td><td>62804</td><td>Student</td><td>Bachelor</td><td>7</td></tr></tbody></table><p>5 rows \u00d7 40 columns</p>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Selected shape: (692978, 40)\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "fa2378018b658da0698f4d1da88843e4",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_nWHF_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "iLit",
+      "code_hash": "3846bc8c1112f829f7a4650616de4d63",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_iLit_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "c189aaf1d78d14842f72eee7d864b213",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "6bf62c648ffc506e0529d4ef4eefd64d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>missing_count</th><th>missing_percentage</th></tr></thead><tbody><tr><th>user_id</th><td>0</td><td>0.0</td></tr><tr><th>monthly_spend</th><td>0</td><td>0.0</td></tr><tr><th>weekly_purchases</th><td>0</td><td>0.0</td></tr><tr><th>average_order_value</th><td>0</td><td>0.0</td></tr><tr><th>lifetime_value_proxy</th><td>0</td><td>0.0</td></tr><tr><th>...</th><td>...</td><td>...</td></tr><tr><th>engagement_score</th><td>0</td><td>0.0</td></tr><tr><th>browse_to_buy_ratio</th><td>0</td><td>0.0</td></tr><tr><th>return_rate</th><td>0</td><td>0.0</td></tr><tr><th>return_frequency</th><td>0</td><td>0.0</td></tr><tr><th>cart_abandonment_rate</th><td>0</td><td>0.0</td></tr></tbody></table><p>20 rows \u00d7 2 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "55c11e24a5ea8c21c54798f0cbb7082b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>0</th></tr></thead><tbody><tr><th>user_id</th><td>int64</td></tr><tr><th>monthly_spend</th><td>int64</td></tr><tr><th>weekly_purchases</th><td>int64</td></tr><tr><th>average_order_value</th><td>int64</td></tr><tr><th>lifetime_value_proxy</th><td>int64</td></tr><tr><th>...</th><td>...</td></tr><tr><th>urban_rural</th><td>object</td></tr><tr><th>income_level</th><td>int64</td></tr><tr><th>employment_status</th><td>object</td></tr><tr><th>education_level</th><td>object</td></tr><tr><th>household_size</th><td>int64</td></tr></tbody></table><p>40 rows \u00d7 1 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "143747cb042cd3ade550413d667ad166",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_TqIu_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "2ce68e5920abca1eb94f60a515eae064",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_Vxnm_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "714ffdfccd3bf05abcc6e0013c005005",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "991f314af243fd2b7de9a06be9d7697d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>loyalty_program_member</th><th>premium_subscription</th><th>loyalty_program_member_label</th><th>premium_subscription_label</th><th>customer_group</th></tr></thead><tbody><tr><th>0</th><td>1</td><td>1</td><td>Loyalty Member</td><td>Premium</td><td>Loyalty + Premium</td></tr><tr><th>1</th><td>1</td><td>0</td><td>Loyalty Member</td><td>Non-Premium</td><td>Loyalty Only</td></tr><tr><th>2</th><td>0</td><td>0</td><td>Non-Loyalty</td><td>Non-Premium</td><td>Standard</td></tr><tr><th>3</th><td>1</td><td>0</td><td>Loyalty Member</td><td>Non-Premium</td><td>Loyalty Only</td></tr><tr><th>4</th><td>1</td><td>0</td><td>Loyalty Member</td><td>Non-Premium</td><td>Loyalty Only</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "4d46d8f368205130ee57493fa3bc8da2",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_ecfG_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "06f939d87fc3de9d882279c2e93fd20b",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_Pvdt_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "ZBYS",
+      "code_hash": "3429894c75aefda8a0de3b42e0ef147f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>count</th><th>mean</th><th>std</th><th>min</th><th>25%</th><th>50%</th><th>75%</th><th>max</th></tr></thead><tbody><tr><th>monthly_spend</th><td>692978.0</td><td>2500.614096</td><td>1443.410303</td><td>50.000000</td><td>1251.000000</td><td>2499.000000</td><td>3752.000000</td><td>4951.000000</td></tr><tr><th>weekly_purchases</th><td>692978.0</td><td>10.499902</td><td>5.769177</td><td>1.000000</td><td>5.000000</td><td>10.000000</td><td>16.000000</td><td>20.000000</td></tr><tr><th>lifetime_value_proxy</th><td>692978.0</td><td>31216.890945</td><td>26777.412628</td><td>318.000000</td><td>9012.000000</td><td>23630.000000</td><td>47542.000000</td><td>105639.000000</td></tr><tr><th>risk_adjusted_value</th><td>692978.0</td><td>71885.403732</td><td>72942.132912</td><td>342.427470</td><td>15000.387222</td><td>46383.336000</td><td>107285.237667</td><td>313874.501040</td></tr><tr><th>daily_session_time_minutes</th><td>692978.0</td><td>60.523913</td><td>34.623429</td><td>2.000000</td><td>30.000000</td><td>61.000000</td><td>91.000000</td><td>119.000000</td></tr><tr><th>...</th><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr><tr><th>return_rate</th><td>692978.0</td><td>50.006276</td><td>29.146083</td><td>0.000000</td><td>25.000000</td><td>50.000000</td><td>75.000000</td><td>99.000000</td></tr><tr><th>cart_abandonment_rate</th><td>692978.0</td><td>40.154677</td><td>25.396309</td><td>0.000000</td><td>18.000000</td><td>40.000000</td><td>62.000000</td><td>87.000000</td></tr><tr><th>risk_score</th><td>692978.0</td><td>0.477157</td><td>0.165481</td><td>0.110778</td><td>0.358222</td><td>0.476889</td><td>0.595444</td><td>0.847556</td></tr><tr><th>coupon_dependency</th><td>692978.0</td><td>0.002100</td><td>0.005151</td><td>0.000000</td><td>0.000267</td><td>0.000800</td><td>0.001603</td><td>0.039216</td></tr><tr><th>risk_exposure</th><td>692978.0</td><td>21.991731</td><td>17.856909</td><td>0.000000</td><td>6.273778</td><td>18.315000</td><td>34.894444</td><td>67.750000</td></tr></tbody></table><p>13 rows \u00d7 8 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aLJB",
+      "code_hash": "8e53d3a4b83ede2f9e3b895f068fe863",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_aLJB_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "nHfw",
+      "code_hash": "8a6a085abab9307c0d4fcb7bb48f49f2",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_nHfw_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "xXTn",
+      "code_hash": "914c058bfe0a79ad2bd0661c6afe3ca9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>count</th><th>mean</th><th>std</th><th>min</th><th>25%</th><th>50%</th><th>75%</th><th>max</th></tr></thead><tbody><tr><th>value_core</th><td>692978.0</td><td>0.333699</td><td>0.191348</td><td>0.000000</td><td>0.176936</td><td>0.322046</td><td>0.472530</td><td>1.000000</td></tr><tr><th>behavior_core</th><td>692978.0</td><td>0.500007</td><td>0.123994</td><td>0.036413</td><td>0.413788</td><td>0.499893</td><td>0.586252</td><td>0.961818</td></tr><tr><th>leakage_pressure</th><td>692978.0</td><td>0.487545</td><td>0.155053</td><td>0.000000</td><td>0.378048</td><td>0.487226</td><td>0.596587</td><td>0.997980</td></tr><tr><th>loyalty_strength</th><td>692978.0</td><td>0.472103</td><td>0.202715</td><td>0.000000</td><td>0.325000</td><td>0.470000</td><td>0.620000</td><td>1.000000</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "AjVT",
+      "code_hash": "213f4b80db96f6d4bfec01b188b85d39",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_AjVT_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "pHFh",
+      "code_hash": "30cb0d8b958e66afac90af5b03c8cac9",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_pHFh_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "NCOB",
+      "code_hash": "e5b6226cdccbbedd167c3861f9b6d7b5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "aqbW",
+      "code_hash": "4ab59ea52f8e79991b0ecbe22a7dce4f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TRpd",
+      "code_hash": "13a48ec33dbb37013208ce883d9c69b0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>customers</th><th>avg_monthly_spend</th><th>avg_weekly_purchases</th><th>avg_ltv</th><th>avg_risk_adjusted_value</th><th>customer_share_pct</th></tr><tr><th>fm_segment</th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><th>Mid Value Regulars</th><td>249494</td><td>2500.46</td><td>10.50</td><td>31271.75</td><td>72083.28</td><td>36.00</td></tr><tr><th>Frequent Low Basket</th><td>111082</td><td>1002.35</td><td>16.50</td><td>12540.33</td><td>28907.74</td><td>16.03</td></tr><tr><th>High Spend Low Frequency</th><td>111067</td><td>4003.64</td><td>4.50</td><td>49913.23</td><td>114634.98</td><td>16.03</td></tr><tr><th>Low Frequency Low Spend</th><td>110688</td><td>998.82</td><td>4.50</td><td>12477.51</td><td>28685.40</td><td>15.97</td></tr><tr><th>High Frequency High Spend</th><td>110647</td><td>3998.74</td><td>16.51</td><td>49822.20</td><td>114890.01</td><td>15.97</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TXez",
+      "code_hash": "9a9fcbfdccb8fb42734cd63138fa6e97",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_TXez_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "dNNg",
+      "code_hash": "fc73588bb784388c13dcc44022623112",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_dNNg_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "yCnT",
+      "code_hash": "bc871ec8313f00f77e1d9e0f058d3477",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "wlCL",
+      "code_hash": "b207c5081e2483bdafe2615443c00c49",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>behavior_segment</th></tr></thead><tbody><tr><th>0</th><td>Loyal Frequent Buyers</td></tr><tr><th>1</th><td>High Value but Unstable</td></tr><tr><th>2</th><td>High Potential Customers</td></tr><tr><th>3</th><td>Promo-Driven Customers</td></tr><tr><th>4</th><td>General Customers</td></tr><tr><th>...</th><td>...</td></tr><tr><th>692973</th><td>Core Value Customers</td></tr><tr><th>692974</th><td>Promo-Driven Customers</td></tr><tr><th>692975</th><td>Promo-Driven Customers</td></tr><tr><th>692976</th><td>Promo-Driven Customers</td></tr><tr><th>692977</th><td>Promo-Driven Customers</td></tr></tbody></table><p>692978 rows \u00d7 1 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kqZH",
+      "code_hash": "12cb9cd691c15451a8965c492b59be40",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>customers</th><th>avg_monthly_spend</th><th>avg_adjusted_revenue</th><th>avg_risk_adjusted_value</th><th>avg_engagement</th><th>avg_leakage_pressure</th><th>customer_share_pct</th></tr><tr><th>behavior_segment</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><th>General Customers</th><td>271100</td><td>2911.77</td><td>126888.33</td><td>81131.13</td><td>0.52</td><td>0.48</td><td>39.12</td></tr><tr><th>Promo-Driven Customers</th><td>211668</td><td>1140.80</td><td>123929.09</td><td>30204.64</td><td>0.53</td><td>0.49</td><td>30.54</td></tr><tr><th>High Value but Unstable</th><td>64298</td><td>4019.17</td><td>184455.38</td><td>109966.86</td><td>0.51</td><td>0.66</td><td>9.28</td></tr><tr><th>Core Value Customers</th><td>54378</td><td>3938.25</td><td>180008.72</td><td>159984.88</td><td>0.53</td><td>0.31</td><td>7.85</td></tr><tr><th>Loyal Frequent Buyers</th><td>42166</td><td>3150.98</td><td>148368.96</td><td>84920.20</td><td>0.65</td><td>0.52</td><td>6.08</td></tr><tr><th>Low Value Low Engagement</th><td>25388</td><td>1170.29</td><td>81148.81</td><td>21827.60</td><td>0.41</td><td>0.49</td><td>3.66</td></tr><tr><th>High Potential Customers</th><td>23980</td><td>2788.43</td><td>102697.49</td><td>63460.66</td><td>0.65</td><td>0.40</td><td>3.46</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "wAgl",
+      "code_hash": "e2dde85550cda263f3d8eb6ca00b24e6",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_wAgl_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "rEll",
+      "code_hash": "51484e2822ae2d2d49f115146b44e05f",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_rEll_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "dGlV",
+      "code_hash": "081d4a2c4f8b530e667d85d1c313bde6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SdmI",
+      "code_hash": "b929aa6625551f1067e742e69c62b8d5",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lgWD",
+      "code_hash": "1e518eadd54234bedc751176c910cc06",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>behavior_segment</th><th>revenue_quality_label</th></tr></thead><tbody><tr><th>0</th><td>Loyal Frequent Buyers</td><td>Revenue with Leakage Pressure</td></tr><tr><th>1</th><td>High Value but Unstable</td><td>Revenue with Leakage Pressure</td></tr><tr><th>2</th><td>High Potential Customers</td><td>Revenue with Leakage Pressure</td></tr><tr><th>3</th><td>Promo-Driven Customers</td><td>Revenue with Leakage Pressure</td></tr><tr><th>4</th><td>General Customers</td><td>Healthy Revenue</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "yOPj",
+      "code_hash": "f287e4caef6c20f0ea871476ca6c3de8",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_yOPj_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "fwwy",
+      "code_hash": "0a91ae5e2b8cb18c8e564b16b8b44aba",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_fwwy_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "LJZf",
+      "code_hash": "b6111d58854520815779d56dbdafc4d8",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "urSm",
+      "code_hash": "5a30a5bed20b3db42b943e76201452f0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>retention_risk_score</th><th>retention_risk_flag</th></tr></thead><tbody><tr><th>0</th><td>0.213844</td><td>Stable</td></tr><tr><th>1</th><td>0.347483</td><td>Stable</td></tr><tr><th>2</th><td>0.308150</td><td>Stable</td></tr><tr><th>3</th><td>0.481282</td><td>Watchlist</td></tr><tr><th>4</th><td>0.291163</td><td>Stable</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "jxvo",
+      "code_hash": "e66e73c911558c25965f91a29963bc61",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>customers</th><th>avg_monthly_spend</th><th>avg_risk_adjusted_value</th><th>avg_return_rate</th><th>avg_cart_abandonment</th><th>avg_coupon_dependency</th><th>customer_share_pct</th></tr><tr><th>retention_risk_flag</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><th>At Risk</th><td>103947</td><td>2440.07</td><td>42286.68</td><td>65.47</td><td>65.80</td><td>0.0</td><td>15.0</td></tr><tr><th>Critical Risk</th><td>34649</td><td>2265.98</td><td>24551.83</td><td>80.40</td><td>72.50</td><td>0.0</td><td>5.0</td></tr><tr><th>Stable</th><td>346489</td><td>2552.62</td><td>92963.13</td><td>40.28</td><td>22.50</td><td>0.0</td><td>50.0</td></tr><tr><th>Watchlist</th><td>207893</td><td>2483.31</td><td>59444.20</td><td>53.42</td><td>51.36</td><td>0.0</td><td>30.0</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "mWxS",
+      "code_hash": "59c0d4d3a8c489e5272eccff65251b02",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_mWxS_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "CcZR",
+      "code_hash": "f550daed4815f9e7aa6e1260a52ab7a3",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_CcZR_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "YWSi",
+      "code_hash": "9bf4fc5108f7d3a2702a56751b7fc042",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>business_priority</th></tr></thead><tbody><tr><th>0</th><td>Protect and Retain</td></tr><tr><th>1</th><td>Urgent Retention Intervention</td></tr><tr><th>2</th><td>Upsell and Value Expansion</td></tr><tr><th>3</th><td>Discount Control and Margin Protection</td></tr><tr><th>4</th><td>Maintain and Monitor</td></tr><tr><th>...</th><td>...</td></tr><tr><th>692973</th><td>Protect and Retain</td></tr><tr><th>692974</th><td>Urgent Retention Intervention</td></tr><tr><th>692975</th><td>Discount Control and Margin Protection</td></tr><tr><th>692976</th><td>Discount Control and Margin Protection</td></tr><tr><th>692977</th><td>Discount Control and Margin Protection</td></tr></tbody></table><p>692978 rows \u00d7 1 columns</p>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "zlud",
+      "code_hash": "7ab1bbbfdbdbfbc795bf1edc0c90b779",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>customer_share_pct</th></tr><tr><th>business_priority</th><th></th></tr></thead><tbody><tr><th>Maintain and Monitor</th><td>35.141375</td></tr><tr><th>Discount Control and Margin Protection</th><td>28.573490</td></tr><tr><th>Urgent Retention Intervention</th><td>13.232599</td></tr><tr><th>Protect and Retain</th><td>10.221825</td></tr><tr><th>Retention Watchlist</th><td>6.100915</td></tr><tr><th>Upsell and Value Expansion</th><td>3.385677</td></tr><tr><th>Low-Cost Automation</th><td>3.344118</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "tZnO",
+      "code_hash": "931026a46a164d4e419eb249bd693869",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_tZnO_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "xvXZ",
+      "code_hash": "e30128eb21439739f17546ff2454d922",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_xvXZ_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "CLip",
+      "code_hash": "c2a076ec580bcfdd7fc53793d4ecffa1",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>behavior_segment</th><th>recommended_action</th></tr></thead><tbody><tr><th>0</th><td>Loyal Frequent Buyers</td><td>Cross-sell, membership benefits, frequency reinforcement</td></tr><tr><th>1</th><td>High Value but Unstable</td><td>Proactive outreach, service recovery, return control, checkout recovery</td></tr><tr><th>2</th><td>High Potential Customers</td><td>Personalized upsell, category expansion, bundle recommendation</td></tr><tr><th>3</th><td>Promo-Driven Customers</td><td>Reduce blanket discounts, test non-price incentives, tighten promo targeting</td></tr><tr><th>4</th><td>General Customers</td><td>Routine monitoring and light segmentation treatment</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "YECM",
+      "code_hash": "4504109990e8f53668eeb58bcf88ca39",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_YECM_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "cEAS",
+      "code_hash": "efbc94a523ed477e24d2e6a34161cd5d",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_cEAS_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "iXej",
+      "code_hash": "e03cbe30c1843905c302117fc2c6504f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>user_id</th><th>country</th><th>income_level</th><th>gender</th><th>urban_rural</th><th>premium_subscription</th><th>loyalty_program_member</th><th>premium_subscription_label</th><th>loyalty_program_member_label</th><th>customer_group</th><th>...</th><th>brand_loyalty_score</th><th>referral_count</th><th>f_score</th><th>m_score</th><th>fm_score</th><th>fm_segment</th><th>behavior_segment</th><th>revenue_quality_label</th><th>business_priority</th><th>recommended_action</th></tr></thead><tbody><tr><th>0</th><td>1</td><td>Germany</td><td>90860</td><td>Female</td><td>Suburban</td><td>1</td><td>1</td><td>Premium</td><td>Loyalty Member</td><td>Loyalty + Premium</td><td>...</td><td>8</td><td>8</td><td>1</td><td>3</td><td>13</td><td>Mid Value Regulars</td><td>Loyal Frequent Buyers</td><td>Revenue with Leakage Pressure</td><td>Protect and Retain</td><td>Cross-sell, membership benefits, frequency reinforcement</td></tr><tr><th>1</th><td>2</td><td>Japan</td><td>35423</td><td>Male</td><td>Suburban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>4</td><td>3</td><td>3</td><td>4</td><td>34</td><td>Mid Value Regulars</td><td>High Value but Unstable</td><td>Revenue with Leakage Pressure</td><td>Urgent Retention Intervention</td><td>Proactive outreach, service recovery, return control, checkout recovery</td></tr><tr><th>2</th><td>3</td><td>India</td><td>21467</td><td>Female</td><td>Urban</td><td>0</td><td>0</td><td>Non-Premium</td><td>Non-Loyalty</td><td>Standard</td><td>...</td><td>2</td><td>10</td><td>3</td><td>3</td><td>33</td><td>Mid Value Regulars</td><td>High Potential Customers</td><td>Revenue with Leakage Pressure</td><td>Upsell and Value Expansion</td><td>Personalized upsell, category expansion, bundle recommendation</td></tr><tr><th>3</th><td>4</td><td>Canada</td><td>41770</td><td>Male</td><td>Urban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>3</td><td>0</td><td>4</td><td>2</td><td>42</td><td>Frequent Low Basket</td><td>Promo-Driven Customers</td><td>Revenue with Leakage Pressure</td><td>Discount Control and Margin Protection</td><td>Reduce blanket discounts, test non-price incentives, tighten promo targeting</td></tr><tr><th>4</th><td>7</td><td>Germany</td><td>62804</td><td>Female</td><td>Urban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>0</td><td>6</td><td>2</td><td>4</td><td>24</td><td>High Spend Low Frequency</td><td>General Customers</td><td>Healthy Revenue</td><td>Maintain and Monitor</td><td>Routine monitoring and light segmentation treatment</td></tr></tbody></table><p>5 rows \u00d7 46 columns</p>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Fact shape: (692978, 46)\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "EJmg",
+      "code_hash": "7f41942b210b4a850f27de2c017fd5e7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "UmEG",
+      "code_hash": "c032d82bd35e2fe2c532321abb2b0e1b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>retention_risk_flag</th><th>risk_order</th><th>risk_color</th><th>risk_definition</th></tr></thead><tbody><tr><th>0</th><td>Stable</td><td>1</td><td>#6CCB63</td><td>Low relative retention risk</td></tr><tr><th>1</th><td>Watchlist</td><td>2</td><td>#F4C542</td><td>Moderate early warning risk</td></tr><tr><th>2</th><td>At Risk</td><td>3</td><td>#F28E2B</td><td>High retention risk</td></tr><tr><th>3</th><td>Critical Risk</td><td>4</td><td>#D62728</td><td>Severe retention risk requiring urgent intervention</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vEBW",
+      "code_hash": "a9d7b05fea607e25fd37d13d299b856a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>business_priority</th><th>priority_order</th><th>priority_group</th><th>action_owner</th></tr></thead><tbody><tr><th>0</th><td>Protect and Retain</td><td>1</td><td>Retention Protection</td><td>CRM / Loyalty</td></tr><tr><th>1</th><td>Urgent Retention Intervention</td><td>2</td><td>Risk Intervention</td><td>Retention / Customer Success</td></tr><tr><th>2</th><td>Upsell and Value Expansion</td><td>3</td><td>Growth Expansion</td><td>Growth / CRM</td></tr><tr><th>3</th><td>Discount Control and Margin Protection</td><td>4</td><td>Margin Protection</td><td>Marketing / Pricing</td></tr><tr><th>4</th><td>Retention Watchlist</td><td>5</td><td>Risk Monitoring</td><td>Retention Team</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "kLmu",
+      "code_hash": "b525f0928088e14b4be1acbdd751c88b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>behavior_segment</th><th>segment_order</th><th>segment_group</th><th>segment_description</th><th>segment_color</th></tr></thead><tbody><tr><th>0</th><td>Core Value Customers</td><td>1</td><td>High Value</td><td>High value, low leakage, relatively stable</td><td>#1F77B4</td></tr><tr><th>1</th><td>Loyal Frequent Buyers</td><td>2</td><td>Loyal / Frequent</td><td>High activity and loyal repeat-oriented customers</td><td>#2CA02C</td></tr><tr><th>2</th><td>High Value but Unstable</td><td>3</td><td>High Value Risk</td><td>Strong value but elevated leakage and risk pressure</td><td>#D62728</td></tr><tr><th>3</th><td>High Potential Customers</td><td>4</td><td>Growth Potential</td><td>Good engagement with room to grow value</td><td>#9467BD</td></tr><tr><th>4</th><td>Promo-Driven Customers</td><td>5</td><td>Promo Sensitive</td><td>Customers dependent on coupons or promotions</td><td>#FF7F0E</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "IpqN",
+      "code_hash": "22d29f35c50907a8426b13de32171247",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "OK - dim_retention_risk: all values in retention_risk_flag are covered.\nOK - dim_business_priority: all values in business_priority are covered.\nOK - dim_behavior_segment: all values in behavior_segment are covered.\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "dxZZ",
+      "code_hash": "6bd03687d9f1bd9117eb072e516f97b5",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_dxZZ_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "dlnW",
+      "code_hash": "d227d6337552bea485b0d32aeef317e6",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_dlnW_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "TTti",
+      "code_hash": "c691ad0296ee3cb37593523902174577",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RKFZ",
+      "code_hash": "536c7abb30c93e46b5f799d99542cc72",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>user_id</th><th>country</th><th>income_level</th><th>gender</th><th>urban_rural</th><th>premium_subscription</th><th>loyalty_program_member</th><th>premium_subscription_label</th><th>loyalty_program_member_label</th><th>customer_group</th><th>...</th><th>brand_loyalty_score</th><th>referral_count</th><th>f_score</th><th>m_score</th><th>fm_score</th><th>fm_segment</th><th>behavior_segment</th><th>revenue_quality_label</th><th>business_priority</th><th>recommended_action</th></tr></thead><tbody><tr><th>0</th><td>1</td><td>Germany</td><td>90860</td><td>Female</td><td>Suburban</td><td>1</td><td>1</td><td>Premium</td><td>Loyalty Member</td><td>Loyalty + Premium</td><td>...</td><td>8</td><td>8</td><td>1</td><td>3</td><td>13</td><td>Mid Value Regulars</td><td>Loyal Frequent Buyers</td><td>Revenue with Leakage Pressure</td><td>Protect and Retain</td><td>Cross-sell, membership benefits, frequency reinforcement</td></tr><tr><th>1</th><td>2</td><td>Japan</td><td>35423</td><td>Male</td><td>Suburban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>4</td><td>3</td><td>3</td><td>4</td><td>34</td><td>Mid Value Regulars</td><td>High Value but Unstable</td><td>Revenue with Leakage Pressure</td><td>Urgent Retention Intervention</td><td>Proactive outreach, service recovery, return control, checkout recovery</td></tr><tr><th>2</th><td>3</td><td>India</td><td>21467</td><td>Female</td><td>Urban</td><td>0</td><td>0</td><td>Non-Premium</td><td>Non-Loyalty</td><td>Standard</td><td>...</td><td>2</td><td>10</td><td>3</td><td>3</td><td>33</td><td>Mid Value Regulars</td><td>High Potential Customers</td><td>Revenue with Leakage Pressure</td><td>Upsell and Value Expansion</td><td>Personalized upsell, category expansion, bundle recommendation</td></tr><tr><th>3</th><td>4</td><td>Canada</td><td>41770</td><td>Male</td><td>Urban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>3</td><td>0</td><td>4</td><td>2</td><td>42</td><td>Frequent Low Basket</td><td>Promo-Driven Customers</td><td>Revenue with Leakage Pressure</td><td>Discount Control and Margin Protection</td><td>Reduce blanket discounts, test non-price incentives, tighten promo targeting</td></tr><tr><th>4</th><td>7</td><td>Germany</td><td>62804</td><td>Female</td><td>Urban</td><td>0</td><td>1</td><td>Non-Premium</td><td>Loyalty Member</td><td>Loyalty Only</td><td>...</td><td>0</td><td>6</td><td>2</td><td>4</td><td>24</td><td>High Spend Low Frequency</td><td>General Customers</td><td>Healthy Revenue</td><td>Maintain and Monitor</td><td>Routine monitoring and light segmentation treatment</td></tr></tbody></table><p>5 rows \u00d7 46 columns</p>"
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "Fact table shape: (692978, 46)\nFact table columns:\n- user_id\n- country\n- income_level\n- gender\n- urban_rural\n- premium_subscription\n- loyalty_program_member\n- premium_subscription_label\n- loyalty_program_member_label\n- customer_group\n- monthly_spend\n- weekly_purchases\n- average_order_value\n- lifetime_value_proxy\n- risk_adjusted_value\n- adjusted_revenue\n- revenue_efficiency\n- engagement_score\n- daily_session_time_minutes\n- product_views_per_day\n- app_usage_frequency\n- browse_to_buy_ratio\n- notification_response_rate\n- return_rate\n- return_frequency\n- cart_abandonment_rate\n- checkout_abandonments_per_month\n- coupon_dependency\n- coupon_usage_frequency\n- risk_score\n- risk_exposure\n- stability_score\n- retention_strength\n- churn_proxy\n- retention_risk_score\n- retention_risk_flag\n- brand_loyalty_score\n- referral_count\n- f_score\n- m_score\n- fm_score\n- fm_segment\n- behavior_segment\n- revenue_quality_label\n- business_priority\n- recommended_action\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "IaQp",
+      "code_hash": "fe68f4665c204b16be4caaa16b07f383",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_IaQp_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    },
+    {
+      "id": "IWgg",
+      "code_hash": "c392235b289b128797713f6cf686871c",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "exception",
+          "evalue": "name 'mo' is not defined",
+          "traceback": null
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stderr",
+          "text": "<span class=\"codehilite\"><div class=\"highlight\"><pre><span></span><span class=\"gt\">Traceback (most recent call last):</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\marimo\\_runtime\\executor.py&quot;</span>, line <span class=\"m\">139</span>, in <span class=\"n\">execute_cell</span>\n<span class=\"w\">    </span><span class=\"k\">return</span> <span class=\"nb\">eval</span><span class=\"p\">(</span><span class=\"n\">cell</span><span class=\"o\">.</span><span class=\"n\">last_expr</span><span class=\"p\">,</span> <span class=\"n\">glbls</span><span class=\"p\">)</span>\n  File <span class=\"nb\">&quot;C:\\Users\\user\\AppData\\Local\\Temp\\marimo_23872\\__marimo__cell_IWgg_.py&quot;</span>, line <span class=\"m\">1</span>, in <span class=\"n\">&lt;module&gt;</span>\n<span class=\"w\">    </span><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">r</span><span class=\"s2\">&quot;&quot;&quot;</span>\n<span class=\"w\">    </span><span class=\"pm\">^^</span>\n<span class=\"gr\">NameError</span>: <span class=\"n\">name &#39;mo&#39; is not defined</span>\n</pre></div>\n</span>",
+          "mimetype": "application/vnd.marimo+traceback"
+        }
+      ]
+    }
+  ]
+}
